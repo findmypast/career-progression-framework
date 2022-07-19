@@ -1,0 +1,14 @@
+{
+	"name": "career-progression-framework",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"scripts": {
+		"start": "npx @11ty/eleventy --serve --port=8081"
+	},
+	"author": "",
+	"license": "ISC",
+	"devDependencies": {
+		"@11ty/eleventy": "^1.0.1"
+	}
+}

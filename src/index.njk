@@ -1,0 +1,15 @@
+---
+layout: base.njk
+title: Findmypast Career Progression Framework
+---
+
+<!--- Iterates over all of the roles by department --->
+{% for key, item in collections | omitAll %}
+  <h2 id="{{ key }}">{{ key | toUpperCase }}</h2>
+  {%- for role in item | sortByLevel -%}
+    <details class="details">
+      <summary class="details__summary">{{ role.data.title }}</summary>
+      <div class="details__content">{{ role.templateContent | safe }}</div>
+    </details>
+  {%- endfor -%}
+{% endfor %}
