@@ -1,6 +1,6 @@
 # Career progression framework
 
-This is the publically viewable career progression framework for Findmypast.
+This is the publicly accessible career progression framework for Findmypast.
 
 ## Getting started
 
