@@ -22,7 +22,7 @@ module.exports = (eleventyConfig) => {
 		dataTemplateEngine: "njk",
 		dir: {
 			input: "src",
-			output: "public"
+			output: "docs"
 		}
 	};
 };
