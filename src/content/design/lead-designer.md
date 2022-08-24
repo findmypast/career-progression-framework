@@ -7,7 +7,7 @@ level: 4
 
 - Leading the solution of undefined problem spaces (e.g. “How can we reconsider how people look for and purchase items?").
 - Autonomous force multiplier for their team and contributors around them.
-- Meets target in 3, developing in 2 others.
+- Meets target in 3 defined skill areas, developing in 2 others.
 - Develops problem-framing approaches, establishing new starting points that lead to new kinds of solutions, which affects strategic thinking, not just execution.
 - Autonomously identifies new problems & opportunities, and delivers impactful solutions. Improves the Design Team.
 - Actively contributes to group strategy.

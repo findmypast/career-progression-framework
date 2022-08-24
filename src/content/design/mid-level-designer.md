@@ -7,7 +7,7 @@ level: 2
 
 - Given specific product capabilities that need to be solved (e.g., Checkout process).
 - Growing independence.
-- Meets target in 2, developing 2 other.
+- Meets target in 2 defined skill areas, developing in 2 others.
 - Confident in applying best practices to common UX problems. Good, applied knowledge of common patterns. Solutions are solid, not original.
 - Delivers impactful solutions that solve customer problems and move business metrics.
 - Actively contributes to road map and strategy planning.

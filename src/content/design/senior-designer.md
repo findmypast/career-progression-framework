@@ -7,7 +7,7 @@ level: 3
 
 - Leads the solution of a product area; connects that to broader product vision (e.g, landing page and purchase experience).
 - Mostly autonomous.
-- Meets target in 3, developing in 2 others.
+- Meets target in 3 defined skill areas, developing in 2 others.
 - Begins going beyond best practices, and starts uncovering novel, unexpected, but still workable solutions.
 - When necessary, leads execution across multiple teams.
 - Growing influence on strategy and vision for their product area.
