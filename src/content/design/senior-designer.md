@@ -5,13 +5,13 @@ level: 3
 
 ### Key differences in this role
 
-- Leads the solution of a product area; connects that to broader product vision (e.g, landing page and purchase experience).
+- Leads the solution of a product area; connects that to broader product vision (e.g. landing page and purchase experience).
 - Mostly autonomous.
 - Meets target in 3 defined skill areas, developing in 2 others.
 - Begins going beyond best practices, and starts uncovering novel, unexpected, but still workable solutions.
 - When necessary, leads execution across multiple teams.
 - Growing influence on strategy and vision for their product area.
-- Co-leading their team with their PM and Engineering Lead. Models behaviours. Growing influence in Design Team.
+- Co-leading their team with their PM and Engineering Lead. Models behaviours. Growing influence in design team.
 
 ### Strategy: how you understand and plan solutions which solve customer problems to drive business outcomes
 
@@ -22,7 +22,7 @@ level: 3
 
 ### Execution: How we ship solutions to our customers
 
-- Is able to diverge/converge quickly, with impact. Drives the conversation around a problem - grounding thinking on the WHY.
+- Is able to diverge / converge quickly, with impact. Drives the conversation around a problem - grounding thinking on the WHY.
 - Can solve complex system design challenges.
 - Leads quantitative and qualitative research.
 - Improve the way your team ships product. Drive conversations around measuring impact and subsequent iterations.

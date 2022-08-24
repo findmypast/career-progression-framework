@@ -9,9 +9,9 @@ level: 4
 - Autonomous force multiplier for their team and contributors around them.
 - Meets target in 3 defined skill areas, developing in 2 others.
 - Develops problem-framing approaches, establishing new starting points that lead to new kinds of solutions, which affects strategic thinking, not just execution.
-- Autonomously identifies new problems & opportunities, and delivers impactful solutions. Improves the Design Team.
+- Autonomously identifies new problems and opportunities, and delivers impactful solutions. Improves the design team.
 - Actively contributes to group strategy.
-- Actively gives feedback and mentors designers. Drives high standards of quality across the group and Design Team.
+- Actively gives feedback and mentors designers. Drives high standards of quality across the group and design team.
 
 ### Strategy: how you understand and plan solutions which solve customer problems to drive business outcomes
 
@@ -22,7 +22,7 @@ level: 4
 
 ### Execution: How we ship solutions to our customers
 
-- Drives best practice, coaches other contributors.
+- Drives best practice and coaches other contributors.
 - Designs connected rationalised systems and helps others apply them in their work. Can identify and solve complex system design debt.
 - Identifies and fills research gaps - contributing to strategy. Uses research to identify strategic and tactical opportunities.
 - Improve the way your team ships product. Drive conversations around measuring impact and subsequent iterations.
