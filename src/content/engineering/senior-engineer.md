@@ -32,7 +32,7 @@ level: 3
 ### You help others to deliver more value by sharing your expertise in certain technologies/processes.
 
 - You mentor less experienced, or more junior members of your team in technologies you're strong in.
-- You share knowledge in specific areas through team demos, brown bags, leading mob programming sessions etc.
+- You share knowledge in specific areas through demos and leading mob programming sessions.
 
 ### You are a trusted influencer within your team and regularly use this position to positively impact the team.
 
