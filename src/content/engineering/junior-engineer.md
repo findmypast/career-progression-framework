@@ -35,3 +35,9 @@ level: 1
 ### You understand the basic principles of software development and demonstrate these in your work
 
 - You are developing an understanding of the ways of working that support Lean delivery and are watchful for waste and inefficiency.
+
+### You show commitment to learning and an ability to pick up new skills/concepts quickly.
+
+- With the assistance of your team and manager you identify and prioritise technical areas to learn. You are systematic in your learning and give a focus to areas that will grow your productiveness in your team.
+- When you get blocked on your learning journey you seek support from your team-mates or manager.
+- You feed back learnings to the team

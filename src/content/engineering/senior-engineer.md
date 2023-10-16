@@ -26,7 +26,7 @@ level: 3
 ### You're likely to have ownership of various tools/systems/processes within your team.
 
 - You take a lead role in ensuring on-going load or chaos testing of critical services owned by your team.
-  You take ownership of maintaining and monitoring your teams performance dashboards, and feeding back potential improvements/concerns to the team.
+- You take ownership of maintaining and monitoring your teams performance dashboards, and feeding back potential improvements/concerns to the team.
 - You lead regular sessions with your team to discuss coding standards, with a view to maintaining quality and consistency in your teams code.
 
 ### You help others to deliver more value by sharing your expertise in certain technologies/processes.

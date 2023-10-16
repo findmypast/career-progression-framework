@@ -18,11 +18,15 @@ level: 4
 ### You can identify even more complex problems, at a team or organisational level, propose solutions and take a lead role in ensuring appropriate action is taken.
 
 - You are aware of a problem in a service not owned by you or your team, but you do have a potential solution in mind. You work with the owning team to implement that solution.
+- Identifying a gap in a team's processes, e.g. with regards to code review, testing, alerting, issues with sub-optimal queries etc. and proposing a solution, potentially involving introduction of a new technology, tool or practice to drive the required improvement.
 
 ### You are ensuring all tools/systems/ processes important to the work of your team are being actively owned within the team.
 
 - You take action to monitor the state of all services your team owns, e.g. reviewing the state of documentation, dashboards, alerts, service performance etc. This may involve you delegating responsibility for services to others within the team, but you are actively ensuring the teams responsibilities are being managed.
 - You are working with Product, Design and other stakeholders to ensure they are getting the engineering support they need, e.g. grooming backlog, ticket refinement, estimations etc.
+- You are taking action to improve specific practices within your team, e.g. improving test coverage through mentoring, addition of test libraries/frameworks, documenting testing guidelines etc. 
+- You are active in managing technical debt within the services and platforms owned by your team. You may work with the PO to ensure necessary work to optimise and improve these areas is being prioritised.
+- You ensure remedial work coming out of incident post-mortems is being prioritised and implemented according to required timelines.
 
 ### You help ensure your team is focused on delivering against stakeholder expectations and can communicate confidently with stakeholders when needed.
 
