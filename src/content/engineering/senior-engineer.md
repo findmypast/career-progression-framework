@@ -5,7 +5,7 @@ level: 3
 
 ### You can lead confidently in tackling some of the most complex or challenging technical problems faced by your team, from design and planning to implementation.
 
-- Impementing a new service that enforces quality standards.
+- Implementing a new service that enforces quality standards.
 - Taking a leading role in forming an architectural proposal to find an effective way of solving a complex technical problem.
 - Taking a leading role in supporting the breakdown of a feature, epic or project sensibly into a well-defined backlog of small tasks or user stories.
 - Leading white-boarding sessions to propose or refine technical designs.
@@ -36,7 +36,7 @@ level: 3
 
 ### You are a trusted influencer within your team and regularly use this position to positively impact the team.
 
-- You help drive effective retropectives by raising issues and proposing meaningful actions.
+- You help drive effective retrospectives by raising issues and proposing meaningful actions.
 - You put forward a persuasive case for the use of a specific technology to solve a problem effectively.
 
 ### You're supporting the growth and development of your team, and individuals inside, or outside your team.

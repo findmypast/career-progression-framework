@@ -18,12 +18,12 @@ level: 2
 ### You will take ownership of certain tools/systems/processes within your team.
 
 - You can represent your team confidently in cross-team discussions (e.g. 1921 scaling sessions, inter-team alignment meetings, swarms etc.). In some instances you may take responsibility for setting up and running these sessions.
-- You facilitate team cermonials, e.g. retros, planning, stand-ups, including management of actions.
+- You facilitate team ceremonials, e.g. retros, planning, stand-ups, including management of actions.
 
 ### You consider the long-term view when delivering a task, through consistent application of engineering good practice.
 
 - When beginning a new task you lead conversation on testing approach, requirements for logging, monitoring, alerting, documentation, to ensure code is robust, resilient and can be understood by others.
-- You show evidence that you are considering long-term scalability of a feature or application that you're designing, but avoid unnecessaary gold-plating.
+- You show evidence that you are considering long-term scalability of a feature or application that you're designing, but avoid unnecessary gold-plating.
 
 ### You actively identify ways your team might improve, and help implement those ideas.
 
