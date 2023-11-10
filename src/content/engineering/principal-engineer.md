@@ -7,7 +7,7 @@ level: 4
 
 - You can take a difficult technical challenge and efficiently lead a team through the design phase, drive decision making, support the creation of a backlog and lead the team confidently into the implementation phase.
 - You can confidently lead on the creation of architectural proposals and refine these designs based on feedback.
-- You are able to support Product and management with the production of project-level estimates/timelines.
+- You are able to support Product and Management with the production of project-level estimates/timelines.
 - You can solve technical problems and lead the successful implementation of tasks others on your team may struggle with.
 
 ### You'll be a go-to person, across the wider engineering team and beyond, for certain technologies/processes and helping solve the most challenging problems.
