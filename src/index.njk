@@ -2,7 +2,6 @@
 layout: base.njk
 title: Findmypast Career Progression Framework
 ---
-{% raw %}
 <!--- Iterates over all of the roles by department --->
 {% for key, item in collections | omitAll %}
   <h2 id="{{ key }}">{{ key | toUpperCase }}</h2>
@@ -13,4 +12,3 @@ title: Findmypast Career Progression Framework
     </details>
   {%- endfor -%}
 {% endfor %}
-{% endraw %}
