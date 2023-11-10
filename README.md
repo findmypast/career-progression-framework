@@ -4,9 +4,9 @@ This is the publicly accessible career progression framework for Findmypast.
 
 ## Getting started
 
-You will need to use [node](https://nodejs.org/en/download/) to run this application. Once cloned, do an `npm start`
+You can run build and run the pages locally, or just update the markdown files. To run locally, you will need to use [node](https://nodejs.org/en/download/) to run this application. Once cloned, do an `npm start`
 
-The framework is hosted via github pages. To update the site, after committing your changes all you need to do is a `git push`.
+The framework is hosted via github pages. To update the site, after committing your changes you can trigger a deploy using [Github Actions](https://github.com/findmypast/career-progression-framework/actions).
 
 ## Adding a new department
 
