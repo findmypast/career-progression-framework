@@ -42,7 +42,7 @@ jobs:
         run: npm ci
 
       - name: Run npm build
-        run: npm run build:prod
+        run: npm run build
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v2
