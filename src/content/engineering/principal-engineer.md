@@ -3,7 +3,7 @@ title: Principal Software Engineer
 level: 4
 ---
 
-### You can lead a team confidently through all phases of any project/initiative they are assigned to.
+### You can lead a team confidently through all phases of any project or initiative they are assigned to.
 
 - You can take a difficult technical challenge and efficiently lead a team through the design phase, drive decision making, support the creation of a backlog and lead the team confidently into the implementation phase.
 - You can confidently lead on the creation of architectural proposals and refine these designs based on feedback.
