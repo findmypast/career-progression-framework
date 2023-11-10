@@ -4,7 +4,8 @@
 	"description": "",
 	"main": "index.js",
 	"scripts": {
-		"start": "npx @11ty/eleventy --serve --port=8081"
+		"start": "npx @11ty/eleventy --serve --port=8081",
+		"build": "npx @11ty/eleventy"
 	},
 	"author": "",
 	"license": "ISC",
